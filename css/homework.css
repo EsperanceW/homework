@@ -1,0 +1,155 @@
+#body{
+	background-image: url("../img/a.jpg");
+	background-size: 1500px;
+	background-repeat: no-repeat;
+}
+#box{
+	height: 420px;
+	width: 580px;
+	background-color: #7A7B77;
+	position: relative;
+	left: 280px;
+	top: 150px;
+	border-radius: 6px;
+}
+#lunbo{
+	height: 260px;
+	width: 501px;
+	position: relative;
+	top: 38px;
+	left: 39px;
+	background-color: white;
+	font-size: 25px;
+	font-weight: 600;
+}
+#begin{
+	width: 150px;
+	height: 60px;
+	position: relative;
+	left: 175px;
+	bottom: 120px;
+	background-color: white;
+	border: 2px;
+	border-style: solid;
+	border-color: black;
+	font-size: 25px;
+	font-weight: 800;
+	font-family: "黑体";
+}
+#options{
+	height: 80px;
+	width: 501px;
+    position: relative;
+    left: 39px;
+    top: 38px;
+    background-color: white;
+}
+.option{
+	height: 40px;
+	width: 80px;
+	position: relative;
+	top: 15px;
+	left: 80px;
+}
+#left{
+	height: 69px;
+	width: 39px;
+	background-color: #282923;
+	color: white;
+	font-size: 16px;
+	font-weight: 800;
+	text-align: center;
+	line-height: 20px;
+	border-radius: 4px;
+	position: relative;
+	bottom: 165px;
+}
+#right{
+    height: 69px;
+	width: 40px;
+	background-color: #282923;
+	color: white;
+	font-size: 16px;
+	font-weight: 800;
+	text-align: center;
+	line-height: 20px;
+	border-radius: 4px;
+	position: relative;
+	bottom: 165px;
+	left: 497px;	
+}
+#submit{
+	height: 42px;
+	width: 60px;
+	position: relative;
+	top: 38px;
+	left: 170px;
+	background-color: #C0C0C0;
+	border-radius: 8px;
+	font-size: 18px;
+	font-weight: 800;
+	font-family: "黑体";
+}
+.img{
+	height: 260px;
+	width: 501px;
+}
+#time{
+	width: 160px;
+	height: 208px;
+    position: relative;
+    left: 860px;
+    bottom: 270px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 8px;
+    font-size: 38px;
+    font-family: "黑体"；
+    font-weight: 1000;
+    text-align: center;
+    line-height: 200px;
+}
+#score{
+	width: 160px;
+	height: 206px;
+	position: relative;
+	left: 860px;
+	bottom: 270px;
+	border: 2px;
+    border-style: solid;
+    border-top: none;
+    border-color: black;
+    border-radius: 8px;
+    font-size: 30px;
+    font-family: "黑体"；
+    font-weight: 1000;
+    text-align: center;
+    line-height: 200px;
+}
+#container{
+	width: 180px;
+	height: 416px;
+	background-color: white;
+    position: relative;
+    left: 1022px;
+    bottom: 690px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.list{
+	width: 160px;
+	height: 69px;
+	background-color: white;
+	font-size: 28px;
+	font-weight: 400;
+	font-family: "黑体";
+	text-align: center;
+	line-height: 65px;
+}
